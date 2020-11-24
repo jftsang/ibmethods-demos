@@ -25,6 +25,16 @@ libraries](https://idiscover.lib.cam.ac.uk/primo-explore/search?query=any,contai
 It also covers large parts of Variational Principles and Complex
 Methods, amongst others (as well as the applied courses in Part IA).
 
+The _Handbook of Mathematical Functions_ by Abramowitz and Stegun is a
+good reference for formulae for special functions (such as Bessel
+functions). A scanned version is [available
+online](https://www.cs.bham.ac.uk/~aps/research/projects/as/) (big PDFs,
+be warned). The [NIST Digital Library of Mathematical
+Functions](https://dlmf.nist.gov/) is the successor of this book.
+
+A YouTube series on distribution theory (might provide some insights
+about how to think about delta functions):
+https://www.youtube.com/watch?v=gwVEEUg8PBY
 
 ## Miscellaneous
 

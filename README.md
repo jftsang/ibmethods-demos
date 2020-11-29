@@ -17,7 +17,7 @@ corrections.
 Richard Jozsa's lecture notes from 2013 are probably the best reference
 for the material in this course (but check the Schedules). They can be
 found (together with many other resources for other courses) at
-http://www.damtp.cam.ac.uk//user/examples/.
+http://www.damtp.cam.ac.uk/user/examples/.
 
 The classic textbook for this course is _Mathematical Methods for
 Physics and Engineering_ by Riley, Hobson and Bence, [available at many

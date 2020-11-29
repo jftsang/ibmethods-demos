@@ -1,6 +1,6 @@
 # Demos for Part IB Methods (and maybe other courses)
 
-By [J M F Tsang](j.m.f.tsang@cantab.net). 
+By J M F Tsang (`j.m.f.tsang@cantab.net`). 
 
 The quickest way to use these is with Binder:
 https://mybinder.org/v2/gh/jftsang/ibmethods-demos/master. But note that
@@ -38,6 +38,12 @@ https://www.youtube.com/watch?v=gwVEEUg8PBY
 
 ## Miscellaneous
 
-Licenced under [Creative Commons Attribution-ShareAlike 4.0
-International Licence](http://creativecommons.org/licenses/by-sa/4.0).
-![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+These demos are licenced under Creative Commons Attribution-ShareAlike
+4.0 International
+Licence](http://creativecommons.org/licenses/by-sa/4.0).  ![Creative
+Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png).
+This means you are free to use, distribute and modify them as you wish,
+provided you cite the creator.
+
+Please report any bugs, mistakes or suggestions to me, either by email
+(`j.m.f.tsang@cantab.net`) or (preferably) on the Issues tab on GitHub. 

@@ -36,6 +36,15 @@ A YouTube series on distribution theory (might provide some insights
 about how to think about delta functions):
 https://www.youtube.com/watch?v=gwVEEUg8PBY
 
+For those interested in rigorous foundations of the material in this
+course, _An Introduction to Hilbert Space_ by Young ([available online
+to Cambridge University
+members](https://idiscover.lib.cam.ac.uk/permalink/f/t9gok8/44CAM_ALMA51527612230003606))
+and _Partial Differential Equations_ by Evans
+([libraries](https://idiscover.lib.cam.ac.uk/permalink/f/t9gok8/44CAM_ALMA21446172250003606))
+may be of interest. But be warned that the language and approach is very
+different from the one taken in this course.
+
 ## Miscellaneous
 
 These demos are licenced under Creative Commons Attribution-ShareAlike

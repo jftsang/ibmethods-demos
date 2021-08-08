@@ -22,12 +22,15 @@ def Reflect(sig, about=0):
     if sig == "odd": sig = -1
 
     def inner(f, x):
-        if x > about:
-            return f(x)
-        elif x == about:
-            return f(x) if sig == 1 else 0
-        else:
-            return sig * f(2*about - x)
+        return np.where(
+            x > about,
+            f(x),
+            np.where(
+                x == about,
+                f(x) if sig == 1 else 0,
+                sig * f(2 * about - x)
+            )
+        )
 
     def reflected(f):
         return lambda x: inner(f, x)
